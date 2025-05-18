@@ -12,5 +12,5 @@
 
   <p>İnternet üzerinden yasa dışı bahis oynayanlara yönelik büyük operasyon başlatıldı. Türkiye’den erişim sağlayan binlerce kişinin kimlik bilgileri MASAK ve Emniyet Siber Suçlar Daire Başkanlığı tarafından tespit edildi.</p>
 
-  <p>Yasa dışı bahis siteleri Meritking, Madridbet ve Kingroyal üzerinden para yatıran kullanıcıların IP ve banka kayıtları incelenmeye başlandı. Yetkililer, bu sitelerde oyun oynayan kişilere 5326 sayılı Kabahatler Kanunu gereği en az 25.000 TL para cezası kesileceğini açıkladı. Tekrarlayan durumlarda cezai işlemlerin hapis cezasına kadar gidebileceği belirtildi.</p>
+  <p>Yasa dışı bahis siteleri Meritking, Madridbet ve Kingroyal üzerinden para yatıran kullanıcıların IP ve banka kayıtları incelenmeye başlandı. Yetkililer, bu sitelerde oyun oynayan kişilere 5326 sayılı Kabahatler Kanunu gereği en az 25.000 TL para cezası kesileceğini açıkladı. Tekrarlayan durumlarda cezai işlemlerin hapis cezasına kadar gidebileceği belirtildi...</p>
 </div>
